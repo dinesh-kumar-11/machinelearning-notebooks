@@ -1,0 +1,5 @@
+
+.aclImdb.zip
+.aclImdb/
+.glove.6B/
+.imdb_weights.h5
